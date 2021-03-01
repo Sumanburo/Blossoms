@@ -7,3 +7,14 @@ h2{
 	color: deeppink;
 	text-align: center;
 }
+
+
+td{
+	text-align: center;
+	width: 300px;
+}
+
+.container{
+	padding: 200px;
+
+}
